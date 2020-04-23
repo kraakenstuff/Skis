@@ -687,9 +687,6 @@ Wire Wire Line
 	1450 4400 1450 4500
 Wire Wire Line
 	1350 4200 1450 4200
-Wire Wire Line
-	1450 4200 1450 4400
-Connection ~ 1450 4400
 $Comp
 L Switch:SW_SPDT SW1
 U 1 1 5DFB9CEA
@@ -1995,9 +1992,6 @@ Wire Wire Line
 	9400 4500 9400 4600
 Wire Wire Line
 	9300 4300 9400 4300
-Wire Wire Line
-	9400 4300 9400 4500
-Connection ~ 9400 4500
 $Comp
 L Switch:SW_SPDT SW3
 U 1 1 5E271638
@@ -2449,4 +2443,13 @@ F 3 "" H 13670 1000 50  0001 C CNN
 	2    13650 1000
 	1    0    0    -1  
 $EndComp
+Text GLabel 9400 4300 2    50   Input ~ 0
+NORM_IN
+Text GLabel 1900 4200 1    50   Input ~ 0
+NORM_IN
+Connection ~ 1450 4400
+Wire Wire Line
+	1450 4200 1450 4400
+Wire Wire Line
+	1900 4200 1900 4300
 $EndSCHEMATC
