@@ -3860,7 +3860,7 @@
   (gr_text "CC-BY-SA\nVÁCLAV PELOUŠEK\nBASTL-INSTRUMENTS.COM" (at 84.455 118.237) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.12)))
   )
-  (gr_text "KRAAKENSTUFF SKIS v0.1" (at 84.455 114.935) (layer F.SilkS)
+  (gr_text "KRAAKENSTUFF SKIS v0.2" (at 84.455 114.935) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "LO FI A" (at 97.4835 98.879429 90) (layer F.SilkS) (tstamp 5E01C2D3)
