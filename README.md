@@ -8,6 +8,8 @@ This is smd version of Bastl Skis v1. Main differences are:
 * Version 2 of Bastl Skis has decay CV input, and this one doesn't have it
 * Version 1 of Bastl Skis was THT and had two sandwiched boards, and this one is SMT in one board.
 
+Status: tested and working.
+
 CC-BY-SA
 Václav Peloušek
 bastl-instruments.com
